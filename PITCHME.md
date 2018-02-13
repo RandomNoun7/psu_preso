@@ -18,9 +18,9 @@ Differences in job descriptions.
 
 #### What You See
 
-- X+ Years experience with Blah language
-- Software design best practices
-- Participate in code reviews
+- X+ Years experience with Blah language |
+- Software design best practices |
+- Participate in code reviews |
 - Source control
 
 ---
@@ -29,6 +29,6 @@ Differences in job descriptions.
 
 #### What You May Not See
 
-- Responsibility for underlying platforms
-- Automatability
+- Responsibility for underlying platforms |
+- Automatability |
 - Working with operations
