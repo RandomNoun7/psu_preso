@@ -12,8 +12,8 @@ Differences in job descriptions.
 - Devops Engineer Positions
 - What They (should) Have in Common
 
----
-
++++
+@title[What You See]
 ### Software Engineer Positions
 
 #### What You See
