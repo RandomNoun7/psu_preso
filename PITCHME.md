@@ -12,10 +12,14 @@ Differences in job descriptions.
 - Devops Engineer Positions
 - What They (should) Have in Common
 
-+++
+---
 ### Software Engineer Positions
 
-#### What You See |
+@fa[arrow-down]
+
++++
+
+#### What You See
 
 - X+ Years experience with Blah language |
 - Software design best practices |
@@ -24,15 +28,31 @@ Differences in job descriptions.
 
 Note:
 Blah language usually means lots of languages
-I think software design best practices includes source control.
-So I don't mind if they don't call it out explicitly
 
----
+I think software design best practices includes source control,
+so just assume it's there.
 
-### Software Engineer Positions
++++
 
 #### What You May Not See
 
 - Responsibility for underlying platforms |
 - Automatability |
 - Working with operations |
+
+@fa[arrow-right] |
+
+---
+
+### Devops Positions
+
+@fa[arrow-down]
+
++++
+
+#### What You See
+
+- Building Pipelines. |
+  - Build
+  - Release
+- Explicitly on the operations teams. |
