@@ -13,10 +13,9 @@ Differences in job descriptions.
 - What They (should) Have in Common
 
 +++
-@title[What You See]
 ### Software Engineer Positions
 
-#### What You See
+#### What You See |
 
 - X+ Years experience with Blah language |
 - Software design best practices |
