@@ -23,6 +23,11 @@ Differences in job descriptions.
 - Participate in code reviews |
 - Source control |
 
+Note:
+Blah language usually means lots of languages
+I think software design best practices includes source control.
+So I don't mind if they don't call it out explicitly
+
 ---
 
 ### Software Engineer Positions
